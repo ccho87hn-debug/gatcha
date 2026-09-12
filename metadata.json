@@ -1,1 +1,9 @@
 
+{
+  "name": "랜덤 뽑기 앱",
+  "description": "사용자가 항목을 추가하고 무작위로 하나를 추첨할 수 있는 뽑기 어플리케이션입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
